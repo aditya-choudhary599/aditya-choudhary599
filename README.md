@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-choudhary599&label=Profile%20views&color=1a5fb4&style=plastic" alt="aditya-choudhary599" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 📫 How to reach me **apc9214@gmail.com**
 
