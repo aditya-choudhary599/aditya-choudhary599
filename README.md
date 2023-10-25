@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Choudhary</h1>
-<h3 align="center">I'm a third-year Computer Engineering student at COEP Technological University, driven by a relentless pursuit of knowledge and pragmatic problem-solving. My commitment lies in leveraging technology for real-world impact and striving to be a valuable contributor to the tech industry.</h3>
+<h3 align="center" color="white">I'm a third-year Computer Engineering student at COEP Technological University, driven by a relentless pursuit of knowledge and pragmatic problem-solving. My commitment lies in leveraging technology for real-world impact and striving to be a valuable contributor to the tech industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-choudhary599&label=Profile%20views&color=1a5fb4&style=plastic" alt="aditya-choudhary599" /> </p>
 
